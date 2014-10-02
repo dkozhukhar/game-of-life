@@ -1,4 +1,4 @@
 game-of-life
 ============
 
-game of life with visual basic
+game of life written in visual basic. little project to learn about forms and vb.
